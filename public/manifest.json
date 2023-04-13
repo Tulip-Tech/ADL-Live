@@ -1,10 +1,10 @@
 {
-  "name": "JW OTT Webapp",
+  "name": "ADL Pro",
   "display": "standalone",
   "start_url": "/",
-  "short_name": "JW OTT",
+  "short_name": "ADL Pro",
   "theme_color": "#DD0000",
-  "description": "JW OTT Webapp is an open-source, dynamically generated video website.",
+  "description": "ADL Pro",
   "orientation": "any",
   "background_color": "#000",
   "related_applications": [],
